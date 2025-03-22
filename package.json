@@ -1,17 +1,12 @@
 {
   "name": "appiot",
   "version": "1.0.0",
-  "description": "hoc_phan_iot",
+  "description": "Web đơn giản Node.js để deploy trên Render",
   "main": "index.js",
   "scripts": {
-	"start": "node index.js"
-	}
-
-  ,
-  "repository": {
-    "type": "git",
-    "url": "iot"
+    "start": "node index.js"
   },
-  "author": "vum2524028",
-  "license": "ISC"
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
