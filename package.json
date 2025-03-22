@@ -1,0 +1,17 @@
+{
+  "name": "appiot",
+  "version": "1.0.0",
+  "description": "hoc_phan_iot",
+  "main": "index.js",
+  "scripts": {
+	"start": "node index.js"
+	}
+
+  ,
+  "repository": {
+    "type": "git",
+    "url": "iot"
+  },
+  "author": "vum2524028",
+  "license": "ISC"
+}
